@@ -1,4 +1,4 @@
-module github.com/ClickHouse/clickhouse-go/v2
+module github.com/kostya05983/clickhouse-go/v2
 
 go 1.25.3
 
