@@ -5,7 +5,7 @@ go 1.25.3
 toolchain go1.25.4
 
 require (
-	github.com/ClickHouse/ch-go v0.70.1-0.20260120130256-d5ac1c0ec8d4
+	github.com/ClickHouse/ch-go v0.70.0
 	github.com/andybalholm/brotli v1.2.0
 	github.com/docker/docker v28.5.2+incompatible
 	github.com/docker/go-units v0.5.0
@@ -27,6 +27,7 @@ require (
 	github.com/Azure/go-ansiterm v0.0.0-20210617225240-d185dfc1b5a1 // indirect
 	github.com/Microsoft/go-winio v0.6.2 // indirect
 	github.com/cenkalti/backoff/v4 v4.3.0 // indirect
+	github.com/cespare/xxhash/v2 v2.3.0 // indirect
 	github.com/containerd/errdefs v1.0.0 // indirect
 	github.com/containerd/errdefs/pkg v0.3.0 // indirect
 	github.com/containerd/log v0.1.0 // indirect
