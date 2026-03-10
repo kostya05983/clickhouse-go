@@ -3,7 +3,7 @@ package clickhouse_api
 import (
 	"context"
 	"errors"
-	"github.com/ClickHouse/clickhouse-go/v2/lib/driver"
+	"github.com/kostya05983/clickhouse-go/v2/lib/driver"
 )
 
 func BatchWithReleaseConnection() error {

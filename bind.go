@@ -8,8 +8,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ClickHouse/clickhouse-go/v2/lib/column"
-	"github.com/ClickHouse/clickhouse-go/v2/lib/driver"
+	"github.com/kostya05983/clickhouse-go/v2/lib/column"
+	"github.com/kostya05983/clickhouse-go/v2/lib/driver"
 )
 
 func Named(name string, value any) driver.NamedValue {

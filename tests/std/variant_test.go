@@ -3,11 +3,11 @@ package std
 import (
 	"context"
 	"database/sql"
-	clickhouse_tests "github.com/ClickHouse/clickhouse-go/v2/tests"
+	clickhouse_tests "github.com/kostya05983/clickhouse-go/v2/tests"
 
 	"fmt"
-	"github.com/ClickHouse/clickhouse-go/v2"
-	"github.com/ClickHouse/clickhouse-go/v2/lib/chcol"
+	"github.com/kostya05983/clickhouse-go/v2"
+	"github.com/kostya05983/clickhouse-go/v2/lib/chcol"
 	"github.com/stretchr/testify/require"
 	"testing"
 	"time"

@@ -3,8 +3,8 @@ package clickhouse_api
 import (
 	"context"
 
-	"github.com/ClickHouse/clickhouse-go/v2"
-	clickhouse_tests "github.com/ClickHouse/clickhouse-go/v2/tests"
+	"github.com/kostya05983/clickhouse-go/v2"
+	clickhouse_tests "github.com/kostya05983/clickhouse-go/v2/tests"
 )
 
 func AsyncInsertHTTP() error {

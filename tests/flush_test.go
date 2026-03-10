@@ -3,9 +3,9 @@ package tests
 import (
 	"context"
 	"fmt"
-	"github.com/ClickHouse/clickhouse-go/v2"
-	"github.com/ClickHouse/clickhouse-go/v2/lib/driver"
 	"github.com/google/uuid"
+	"github.com/kostya05983/clickhouse-go/v2"
+	"github.com/kostya05983/clickhouse-go/v2/lib/driver"
 	"github.com/stretchr/testify/require"
 	"testing"
 	"time"

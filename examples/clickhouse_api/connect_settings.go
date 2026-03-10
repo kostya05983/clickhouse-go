@@ -3,7 +3,7 @@ package clickhouse_api
 import (
 	"context"
 	"fmt"
-	"github.com/ClickHouse/clickhouse-go/v2"
+	"github.com/kostya05983/clickhouse-go/v2"
 	"net"
 	"time"
 )

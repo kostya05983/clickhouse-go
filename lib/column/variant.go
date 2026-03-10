@@ -7,7 +7,7 @@ import (
 	"strings"
 
 	"github.com/ClickHouse/ch-go/proto"
-	"github.com/ClickHouse/clickhouse-go/v2/lib/chcol"
+	"github.com/kostya05983/clickhouse-go/v2/lib/chcol"
 )
 
 const SupportedVariantSerializationVersion = 0

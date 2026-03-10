@@ -2,7 +2,7 @@ package clickhouse
 
 import (
 	"context"
-	"github.com/ClickHouse/clickhouse-go/v2/lib/proto"
+	"github.com/kostya05983/clickhouse-go/v2/lib/proto"
 )
 
 func (c *connect) query(ctx context.Context, release nativeTransportRelease, query string, args ...any) (*rows, error) {

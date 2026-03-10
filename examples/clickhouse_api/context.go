@@ -6,9 +6,9 @@ import (
 	"net"
 	"time"
 
-	"github.com/ClickHouse/clickhouse-go/v2"
-	clickhouse_tests "github.com/ClickHouse/clickhouse-go/v2/tests"
 	"github.com/google/uuid"
+	"github.com/kostya05983/clickhouse-go/v2"
+	clickhouse_tests "github.com/kostya05983/clickhouse-go/v2/tests"
 )
 
 func UseContext() error {

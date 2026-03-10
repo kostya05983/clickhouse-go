@@ -8,8 +8,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ClickHouse/clickhouse-go/v2"
 	"github.com/google/uuid"
+	"github.com/kostya05983/clickhouse-go/v2"
 	"github.com/shopspring/decimal"
 	"github.com/stretchr/testify/assert"
 )

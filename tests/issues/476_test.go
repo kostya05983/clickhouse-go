@@ -4,10 +4,10 @@ import (
 	"context"
 	"testing"
 
-	clickhouse_tests "github.com/ClickHouse/clickhouse-go/v2/tests"
+	clickhouse_tests "github.com/kostya05983/clickhouse-go/v2/tests"
 	"github.com/stretchr/testify/require"
 
-	"github.com/ClickHouse/clickhouse-go/v2"
+	"github.com/kostya05983/clickhouse-go/v2"
 	"github.com/stretchr/testify/assert"
 )
 

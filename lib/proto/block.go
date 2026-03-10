@@ -4,7 +4,7 @@ import (
 	"errors"
 	"fmt"
 	"github.com/ClickHouse/ch-go/proto"
-	"github.com/ClickHouse/clickhouse-go/v2/lib/column"
+	"github.com/kostya05983/clickhouse-go/v2/lib/column"
 	"sort"
 )
 

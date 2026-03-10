@@ -6,9 +6,9 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/ClickHouse/clickhouse-go/v2"
-	"github.com/ClickHouse/clickhouse-go/v2/lib/driver"
-	clickhouse_tests "github.com/ClickHouse/clickhouse-go/v2/tests"
+	"github.com/kostya05983/clickhouse-go/v2"
+	"github.com/kostya05983/clickhouse-go/v2/lib/driver"
+	clickhouse_tests "github.com/kostya05983/clickhouse-go/v2/tests"
 )
 
 func getClickhouseClient() driver.Conn {

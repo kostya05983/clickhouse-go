@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/ClickHouse/clickhouse-go/v2/lib/column/orderedmap"
+	"github.com/kostya05983/clickhouse-go/v2/lib/column/orderedmap"
 )
 
 func MapInsertRead() error {

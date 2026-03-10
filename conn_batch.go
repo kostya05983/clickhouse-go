@@ -10,9 +10,9 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/ClickHouse/clickhouse-go/v2/lib/column"
-	"github.com/ClickHouse/clickhouse-go/v2/lib/driver"
-	"github.com/ClickHouse/clickhouse-go/v2/lib/proto"
+	"github.com/kostya05983/clickhouse-go/v2/lib/column"
+	"github.com/kostya05983/clickhouse-go/v2/lib/driver"
+	"github.com/kostya05983/clickhouse-go/v2/lib/proto"
 )
 
 var insertMatch = regexp.MustCompile(`(?i)(?:(?:--[^\n]*|#![^\n]*|#\s[^\n]*)\n\s*)*(INSERT\s+INTO\s+[^( ]+(?:\s*\([^()]*(?:\([^()]*\)[^()]*)*\))?)(?:\s*VALUES)?`)

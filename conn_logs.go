@@ -4,7 +4,7 @@ import (
 	"context"
 	"time"
 
-	"github.com/ClickHouse/clickhouse-go/v2/lib/proto"
+	"github.com/kostya05983/clickhouse-go/v2/lib/proto"
 )
 
 type Log struct {

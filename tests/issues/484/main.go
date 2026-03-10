@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/ClickHouse/clickhouse-go/v2"
-	clickhouse_tests "github.com/ClickHouse/clickhouse-go/v2/tests/std"
+	"github.com/kostya05983/clickhouse-go/v2"
+	clickhouse_tests "github.com/kostya05983/clickhouse-go/v2/tests/std"
 )
 
 func main() {

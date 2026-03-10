@@ -2,7 +2,7 @@ package resources
 
 import (
 	_ "embed"
-	"github.com/ClickHouse/clickhouse-go/v2/lib/proto"
+	"github.com/kostya05983/clickhouse-go/v2/lib/proto"
 	"go.yaml.in/yaml/v3"
 	"strings"
 )

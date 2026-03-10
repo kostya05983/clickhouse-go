@@ -8,8 +8,8 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/ClickHouse/clickhouse-go/v2"
-	"github.com/ClickHouse/clickhouse-go/v2/ext"
+	"github.com/kostya05983/clickhouse-go/v2"
+	"github.com/kostya05983/clickhouse-go/v2/ext"
 	"github.com/stretchr/testify/assert"
 )
 
